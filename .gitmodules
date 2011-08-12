@@ -1,0 +1,18 @@
+[submodule "CoffeeScript.tmbundle"]
+	path = CoffeeScript.tmbundle
+	url = git://github.com/jashkenas/coffee-script-tmbundle
+[submodule "SCSS.tmbundle"]
+	path = SCSS.tmbundle
+	url = https://github.com/kuroir/SCSS.git
+[submodule "Ruby Haml.tmbundle"]
+	path = Ruby Haml.tmbundle
+	url = https://github.com/textmate/ruby-haml.tmbundle.git
+[submodule "Ruby-Slim.tmbundle"]
+	path = Ruby-Slim.tmbundle
+	url = git://github.com/fredwu/ruby-slim-tmbundle.git
+[submodule "RSpec.tmbundle"]
+	path = RSpec.tmbundle
+	url = git://github.com/rspec/rspec-tmbundle.git
+[submodule "Ruby on Rails.tmbundle"]
+	path = Ruby on Rails.tmbundle
+	url = https://github.com/drnic/ruby-on-rails-tmbundle.git
